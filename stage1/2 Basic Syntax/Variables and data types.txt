@@ -1,0 +1,15 @@
+//////////Variables
+/* Las variables se pueden declarar usando {var, const, o let}. var tiene alcance de función, mientras que const y let tienen alcance de bloque. Las variables const no pueden ser reasignadas, mientras que las variables let si pueden serlo. */
+let a = 100
+var b = 99
+const v = 98
+
+/////////Data Types
+Type	       typeofreturn value	     Object wrapper
+Null	       "object"	              N/A
+Undefined	 "undefined"	           N/A
+Boolean	    "boolean"	              Boolean
+Number	    "number"	              Number
+BigInt	    "bigint"	              BigInt
+String	    "string"	              String
+Symbol	    "symbol"	              Symbol

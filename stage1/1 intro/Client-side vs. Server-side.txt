@@ -1,0 +1,3 @@
+//es
+La diferencia es cómo se recojen los datos. Con el client side tracking la información se envía directamente desde el navegador a las herramientas de medición, mientras que con el server-side tracking se envían los datos a un servidor propio, que posteriormente distribuye estos datos a las plataformas de medición.
+Con backand o sin backand.

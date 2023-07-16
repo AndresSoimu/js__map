@@ -1,0 +1,9 @@
+      <script src="myScript.js"></script>
+//ru
+Вы можете поместить ссылку на внешний скрипт в <head>или <body>по своему усмотрению.
+//en
+You can place an external script reference in <head> or <body> as you like.
+//es
+Puede colocar una referencia de secuencia de comandos externa en <head>o <body>como desee.
+//ro
+Puteți plasa o referință de script extern în <head>sau <body>după cum doriți.
